@@ -1,0 +1,67 @@
+ body{
+	font-family:"Merriweather", serif;
+} 
+
+h1{
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: 50px;
+	line-height: 1.2;
+    font-family: Montserrat;
+	font-weight: 800;
+	font-style: oblique;
+    color: rgb(166, 5, 5);
+    text-shadow: 2px 2px 8px #000;
+}
+h2{
+    color: rgb(180, 85, 7);
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+p, .go{
+   padding: 50px 40px 30px 40px; 
+   line-height: 1.5;
+   text-indent: 20px;
+  
+}
+h4{
+    color: darkmagenta;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: wavy;
+    padding: 50px 40px 30px 40px;
+}
+ul.qwe {
+    color: rgb(14, 189, 242);
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: dotted ; 
+    font-style: oblique;
+}
+.poi{
+    text-decoration: overline;
+    text-transform: uppercase;
+    word-spacing: 10px;
+}
+.lo,.za{
+    text-align: center;
+    color: rgb(44, 96, 111);
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 20px;
+   
+}
+.text + p {
+	color: red;
+}
+
+
+
